@@ -1,0 +1,292 @@
+E:\me\tai lieu\ASP.NET\ex\ex\bin\ex.dll.config
+E:\me\tai lieu\ASP.NET\ex\ex\bin\ex.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\ex.pdb
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\csc.exe
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\csc.exe.config
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\csc.rsp
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\csi.exe
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\csi.exe.config
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\csi.rsp
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.Managed.Core.targets
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.AppContext.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Collections.Immutable.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Console.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.IO.Compression.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.IO.FileSystem.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.IO.Pipes.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Reflection.Metadata.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Security.AccessControl.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Security.Claims.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Security.Principal.Windows.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.ValueTuple.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Xml.XmlDocument.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Xml.XPath.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\vbc.exe
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\vbc.exe.config
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\vbc.rsp
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\VBCSCompiler.exe
+E:\me\tai lieu\ASP.NET\ex\ex\bin\roslyn\VBCSCompiler.exe.config
+E:\me\tai lieu\ASP.NET\ex\ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\Microsoft.Web.Infrastructure.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Helpers.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Mvc.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Razor.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Webpages.Deployment.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Webpages.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Webpages.Razor.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Razor.xml
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Webpages.xml
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Webpages.Deployment.xml
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Webpages.Razor.xml
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Helpers.xml
+E:\me\tai lieu\ASP.NET\ex\ex\bin\System.Web.Mvc.xml
+E:\me\tai lieu\ASP.NET\ex\ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\me\tai lieu\ASP.NET\ex\ex\obj\Debug\ex.csprojAssemblyReference.cache
+E:\me\tai lieu\ASP.NET\ex\ex\obj\Debug\ex.csproj.CoreCompileInputs.cache
+E:\me\tai lieu\ASP.NET\ex\ex\obj\Debug\ex.csproj.CopyComplete
+E:\me\tai lieu\ASP.NET\ex\ex\obj\Debug\ex.dll
+E:\me\tai lieu\ASP.NET\ex\ex\obj\Debug\ex.pdb
+E:\me\tai lieu\ASP.NET\ex\ex\bin\EntityFramework.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\EntityFramework.SqlServer.dll
+E:\me\tai lieu\ASP.NET\ex\ex\bin\EntityFramework.xml
+E:\me\tai lieu\ASP.NET\ex\ex\bin\EntityFramework.SqlServer.xml
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\ex.dll.config
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\ex.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\ex.pdb
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\csc.exe
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\csc.exe.config
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\csc.rsp
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\csi.exe
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\csi.exe.config
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\csi.rsp
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.Managed.Core.targets
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.AppContext.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Collections.Immutable.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Console.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.IO.Compression.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.IO.FileSystem.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.IO.Pipes.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Reflection.Metadata.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Security.AccessControl.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Security.Claims.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Security.Principal.Windows.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.ValueTuple.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Xml.XmlDocument.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Xml.XPath.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\vbc.exe
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\vbc.exe.config
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\vbc.rsp
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\VBCSCompiler.exe
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\roslyn\VBCSCompiler.exe.config
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\EntityFramework.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\EntityFramework.SqlServer.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\Microsoft.Web.Infrastructure.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Helpers.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Mvc.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Razor.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Webpages.Deployment.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Webpages.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Webpages.Razor.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\EntityFramework.xml
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\EntityFramework.SqlServer.xml
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Razor.xml
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Webpages.xml
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Webpages.Deployment.xml
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Webpages.Razor.xml
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Helpers.xml
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\System.Web.Mvc.xml
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\obj\Debug\ex.csprojAssemblyReference.cache
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\obj\Debug\ex.csproj.CoreCompileInputs.cache
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\obj\Debug\ex.csproj.CopyComplete
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\obj\Debug\ex.dll
+E:\me\tai lieu\ASP.NET\bao cao asp.net\ex\ex\obj\Debug\ex.pdb
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\ex.dll.config
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\ex.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\ex.pdb
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csc.exe
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csc.exe.config
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csc.rsp
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csi.exe
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csi.exe.config
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csi.rsp
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.Managed.Core.targets
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.AppContext.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Collections.Immutable.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Console.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.IO.Compression.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.IO.FileSystem.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.IO.Pipes.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Reflection.Metadata.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.AccessControl.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Claims.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Principal.Windows.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.ValueTuple.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Xml.XmlDocument.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Xml.XPath.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\vbc.exe
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\vbc.exe.config
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\vbc.rsp
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\VBCSCompiler.exe
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\VBCSCompiler.exe.config
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\EntityFramework.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\EntityFramework.SqlServer.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\Microsoft.Web.Infrastructure.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Helpers.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Mvc.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Razor.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.Deployment.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.Razor.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\EntityFramework.xml
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\EntityFramework.SqlServer.xml
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Helpers.xml
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Mvc.xml
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Razor.xml
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.xml
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.Deployment.xml
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.Razor.xml
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\obj\Debug\ex.csprojAssemblyReference.cache
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\obj\Debug\ex.csproj.CoreCompileInputs.cache
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\obj\Debug\ex.csproj.CopyComplete
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\obj\Debug\ex.dll
+E:\me\tai lieu\ASP.NET\Baocao\ex\ex\obj\Debug\ex.pdb
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\ex.dll.config
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\ex.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\ex.pdb
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csc.exe
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csc.exe.config
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csc.rsp
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csi.exe
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csi.exe.config
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\csi.rsp
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.Managed.Core.targets
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.AppContext.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Collections.Immutable.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Console.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.IO.Compression.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.IO.FileSystem.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.IO.Pipes.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Reflection.Metadata.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.AccessControl.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Claims.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Security.Principal.Windows.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.ValueTuple.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Xml.XmlDocument.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Xml.XPath.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\vbc.exe
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\vbc.exe.config
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\vbc.rsp
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\VBCSCompiler.exe
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\roslyn\VBCSCompiler.exe.config
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\EntityFramework.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\EntityFramework.SqlServer.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\Microsoft.Web.Infrastructure.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Helpers.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Mvc.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Razor.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.Deployment.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.Razor.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\EntityFramework.xml
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\EntityFramework.SqlServer.xml
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Helpers.xml
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Mvc.xml
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.Razor.xml
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.xml
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.Deployment.xml
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\System.Web.WebPages.Razor.xml
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\obj\Debug\ex.csprojAssemblyReference.cache
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\obj\Debug\ex.csproj.CoreCompileInputs.cache
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\obj\Debug\ex.csproj.CopyComplete
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\obj\Debug\ex.dll
+E:\my file\me\tai lieu\ASP.NET\Baocao\ex\ex\obj\Debug\ex.pdb

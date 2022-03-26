@@ -1,0 +1,104 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.3&appId=Your_App_ID";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<section class="blog-hero spad">
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-lg-9 text-center">
+                <div class="blog__hero__text">
+                    <h2>Những điều cần biết về công ty MxL</h2>
+                    <ul>
+                        <li>Bởi Mai Xuân Lợi</li>
+                        <li>Ngày 03/05/2021</li>
+                        <li>8 Bình luận</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="blog-details spad">
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-lg-12">
+                <div class="blog__details__pic">
+                    <img src="img/blog/details/blog-details.jpg" alt="">
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="blog__details__content">
+                    <div class="blog__details__text">
+                        <p>
+                            Ra mắt năm 2015, nền tảng thương mại MxL Shop được xây dựng nhằm cung cấp cho người sử dùng những trải nghiệm dễ dàng,
+                            an toàn và nhanh chóng khi mua sắm trực tuyến thông qua hệ thống hỗ trợ thanh toán và vận hành vững mạnh.
+                            Chúng tôi có niềm tin mạnh mẽ rằng trải nghiệm mua sắm trực tuyến phải đơn giản, dễ dàng và mang đến cảm xúc vui thích.
+                            Niềm tin này truyền cảm hứng và thúc đẩy chúng tôi mỗi ngày tại MxL Shop.
+                        </p>
+                        <p>
+                            Chúng tôi thật sự tin tưởng vào sức mạnh khai triển của công nghệ và mong muốn góp phần làm cho thế giới trở nên tốt đẹp hơn
+                            bằng việc kết nối cộng đồng người mua và người bán thông qua việc cung cấp một nền tảng thương mại điện tử.
+                        </p>
+                    </div>
+                    <div class="blog__details__quote">
+                        <i class="fa fa-quote-left"></i>
+                        <p>
+                            “Để định nghĩa chúng tôi là ai - thông qua lời nói hay cách ứng xử trong nhiều trường hợp khác nhau - thì thực chất, chúng tôi Gần gũi, Vui vẻ và Đồng lòng.
+                            Đây là những đặc tính chính và nổi bật trong từng bước đường phát triển của MxL Shop.”
+                        </p>
+                        <h6>_ Xuân Lợi _</h6>
+                    </div>
+                    <div class="blog__details__text">
+                        <p>
+                            Chúng tôi có niềm tin vào tính gần gũi mà thanh liêm, nền tảng vững chắc cho một cuộc sống trung thực,
+                            bình dân và thành thật với bản thân.
+
+
+                        </p>
+                        <p>
+                            Chúng tôi dễ gần, đáng yêu và tràn đầy năng lượng,
+                            luôn mang đến niềm vui cho những người xung quanh.
+                        </p>
+                        <p>
+                            Chúng tôi thích tận hưởng thời gian bên nhau giống như tận hưởng việc mua sắm trực tuyến với người thân và bạn bè
+                            - làm những việc yêu thích cùng nhau như một đại gia đình lớn.
+                        </p>
+                    </div>
+                    <div class="blog__details__option">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="blog__details__author">
+                                    <div class="blog__details__author__pic">
+                                        <img src="img/blog/details/blog-author.jpg" alt="">
+                                    </div>
+                                    <div class="blog__details__author__text">
+                                        <h5>Xuân Lợi</h5>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="blog__details__tags">
+                                    <a href="#">#ThờiTrang</a>
+                                    <a href="#">#Trending</a>
+                                    <a href="#">#2021</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>                    
+                    <h4>Bình luận</h4>
+                    <div class="fb-comments" xid="<?php the_ID(); ?>" data-width="100%" data-numposts="15"></div>
+                </div>
+                </div>
+            </div>
+        </div>   
+</section>
+

@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+
+@model ex.Models.ProductDetailModel
+<div class="accordion" id="accordionExample">
+    @foreach (var item in Model.ListCategory.Where(n => n.ParentId == 0))
+    {
+        <div class="card">
+            <div class="card-heading">
+                <a href="@Url.Action("Product", "Product", new { Id = item.Id }, null)" data-toggle="collapse" data-target="#@item.DataScroll">@item.Name</a>
+            </div>
+            <div id="@item.DataScroll" class="collapse show" data-parent="#accordionExample">
+                <div class="card-body">
+                    <div class="shop__sidebar__categories">
+                        <ul class="nice-scroll">
+                            @foreach (var childitem in Model.ListCategory.Where(n => n.ParentId == item.Id))
+                            {
+                                <li><a href="@Url.Action("Product", "Product", new { Id = item.Id })">@childitem.Name</a></li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

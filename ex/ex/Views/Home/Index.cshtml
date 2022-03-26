@@ -1,0 +1,179 @@
+﻿@model ex.Models.ProductCategoryModel
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_LayoutSite.cshtml";
+}
+@Html.Partial("_MainMenu")
+<section class="banner spad">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model.listSliderBanner)
+            {
+            <div class="col-lg-@item.ShortDesc">
+                <div class="@item.FullDecription">
+                    <div class="banner__item__pic">
+                        <img src="Content/img/banner/@item.Img" alt="">
+                    </div>
+                    <div class="banner__item__text">
+                        <h2>@item.Name</h2>
+                        <a href="@Url.Action("AllProduct", "Product")">Mua ngay</a>
+                    </div>
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+</section>
+<section class="product spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="filter__controls">
+                    @foreach (var item in Model.listTopic)
+                    {
+                            <li class="active" data-filter="@item.Metakey">@item.Name</li>                                  
+                    }
+
+                </ul>
+            </div>
+        </div>
+        
+        <div class="row product__filter">
+            @foreach (var item in Model.listProduct)
+            {
+                <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix @item.Position">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="Content/img/product/@item.Image">
+                            <span class="label">@item.ShortDes</span>
+                            <ul class="product__hover">
+                                <li><a href=""><img src="Content/img/icon/heart.png" alt=""><span>Like</span></a></li>
+                                <li><a href="@Url.Action("ProductDetail","Product", new { Id = item.Id }, null)"><img src="Content/img/icon/search.png" alt=""><span>Details</span></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6>@item.Name</h6>
+                            <a href="/ShoppingCart/AddToCart/@item.Id" class="add-cart">
+                                + Thêm vào giỏ hàng</a>
+                            <div class="rating">
+                                <i class="fa fa-star-o"></i>
+                                <i class="fa fa-star-o"></i>
+                                <i class="fa fa-star-o"></i>
+                                <i class="fa fa-star-o"></i>
+                                <i class="fa fa-star-o"></i>
+                            </div>
+                            <h5>@item.Price</h5>
+                            <div class="product__color__select">
+                                <label for="pc-1">
+                                    <input type="radio" id="pc-1">
+                                </label>
+                                <label class="active black" for="pc-2">
+                                    <input type="radio" id="pc-2">
+                                </label>
+                                <label class="grey" for="pc-3">
+                                    <input type="radio" id="pc-3">
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+<section class="categories spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="categories__text">
+                    <h2>Sản phẩm hot <br /> <span>Bộ sưu tập giày</span> <br /> Phụ kiện</h2>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="categories__hot__deal">
+                    <img src="Content/img/@Model.prdDealofweek.Image" alt="">
+                    <div class="hot__deal__sticker">
+                        <span>Sale Of</span>
+                        <h5>@Model.prdDealofweek.Price Vnđ</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 offset-lg-1">
+                <div class="categories__deal__countdown">
+                    <span>@Model.prdDealofweek.ShortDes</span>
+                    <h2>@Model.prdDealofweek.Name</h2>
+                    <div class="categories__deal__countdown__timer" id="countdown">
+                        <div class="cd-item">
+                            <span>3</span>
+                            <p>Ngày</p>
+                        </div>
+                        <div class="cd-item">
+                            <span>1</span>
+                            <p>Giờ</p>
+                        </div>
+                        <div class="cd-item">
+                            <span>50</span>
+                            <p>Phút</p>
+                        </div>
+                        <div class="cd-item">
+                            <span>18</span>
+                            <p>Giây</p>
+                        </div>
+                    </div>
+                    <a href="@Url.Action("ProductDetail","Product", new { Id = @Model.prdDealofweek.Id }, null)" class="primary-btn">Mua ngay</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="instagram spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="instagram__pic">
+                    <div class="instagram__pic__item set-bg" data-setbg="Content/img/instagram/instagram-1.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="Content/img/instagram/instagram-2.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="Content/img/instagram/instagram-3.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="Content/img/instagram/instagram-4.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="Content/img/instagram/instagram-5.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="Content/img/instagram/instagram-6.jpg"></div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="instagram__text">
+                    <h2>Instagram</h2>
+                    <p>
+                        Với đầy đủ thiết kế mẫu mã cùng nhiều sản phẩm nổi bật tạo nên net sang trọng lịch lãm dành cho nam giới.
+                    </p>
+                    <h3>#ThờiTrang_Nam</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="latest spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title">
+                    <span>Tin tức mới nhất</span>
+                    <h2>Xu hướng thời trang mới</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (var item in Model.listNewsHome)
+            {
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="blog__item">
+                    <div class="blog__item__pic set-bg" data-setbg="Content/img/blog/@item.Image"></div>
+                    <div class="blog__item__text">
+                        <span><img src="Content/img/icon/calendar.png" alt=""> @item.UploadTime</span>
+                        <h5>@item.Name</h5>
+                        <a href="@Url.Action("NewsDetail", "News", new { Id = item.Id }, null)">Read More</a>
+                    </div>
+                </div>
+            </div>          
+            }
+        </div>
+    </div>
+</section>
